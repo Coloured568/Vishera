@@ -100,7 +100,7 @@ def system():
     vishera.output(f"System: {operating_system}")
 
 def source():
-    vishera.output("GitHub repo coming soon!")
+    vishera.output("https://github.com/Coloured568/Vishera/")
 
 def date():
     print("MLA date formatter")
